@@ -40,9 +40,9 @@ FMCG/CPG clients on AWS and Azure.
 
 ## 📌 Featured Projects
 
-- **[Supply Chain Analytics — AtliQ Mart]([link](https://github.com/Hemant22121991/atliq-mart-supply-chain-analytics))** · Microsoft Fabric, PySpark, Power BI, SQL
-- **[Media Merger Insights — Jotstar × LioCinema]([link](https://github.com/Hemant22121991/Data_Analytics_Portfolio_Projects/tree/main/106_Power_BI_Project_06%20India%20OTT%20Platform%20Merger%20Analytics))** · Power BI, MySQL
-- **[EV Sales Interactive Dashboard]([link](https://github.com/Hemant22121991/Data_Analytics_Portfolio_Projects/tree/main/04_Excel_Project_04%20India%20EV%20Sales%20Analytics))** · Advanced Excel
+- **[Supply Chain Analytics — AtliQ Mart](https://github.com/Hemant22121991/atliq-mart-supply-chain-analytics)** · Microsoft Fabric, PySpark, Power BI, SQL
+- **[Media Merger Insights — Jotstar × LioCinema](https://github.com/Hemant22121991/Data_Analytics_Portfolio_Projects/tree/main/106_Power_BI_Project_06%20India%20OTT%20Platform%20Merger%20Analytics)** · Power BI, MySQL
+- **[EV Sales Interactive Dashboard](https://github.com/Hemant22121991/Data_Analytics_Portfolio_Projects/tree/main/04_Excel_Project_04%20India%20EV%20Sales%20Analytics)** · Advanced Excel
 
 ## 📫 Connect
 
