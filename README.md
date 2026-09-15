@@ -1,6 +1,6 @@
 # Hi, I'm Hemant Mandge 👋
 
-**BI & Data Engineer** — I turn messy real-world data into decision-ready intelligence.
+**BI & Data Analyst** — I turn messy real-world data into decision-ready intelligence.
 
 10 years of engineering under the belt: the first chapter designing automotive
 tooling and analyzing shop-floor data (robot logs, cycle times, PLM systems),
